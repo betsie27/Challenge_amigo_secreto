@@ -14,9 +14,9 @@ Aplicación web para realizar sorteos de "Amigo Secreto" de manera sencilla y al
 ## 🛠️ Tecnologías
 
 - **Frontend**: 
-  - HTML5 (Estructura semántica).
-  - CSS3 (Flexbox, Grid, variables personalizadas).
-  - JavaScript Vanilla (Manipulación del DOM).
+  - HTML5.
+  - CSS3.
+  - JavaScript.
 
 ## 📋 Instalación
 
